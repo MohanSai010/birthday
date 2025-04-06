@@ -144,7 +144,7 @@ const styles = StyleSheet.create({
     marginTop: 4,
   },
   notes: {
-    fontSize: 14,
+    fontSize: 1,
     color: '#999',
     marginTop: 4,
   },
