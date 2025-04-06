@@ -130,7 +130,7 @@ const styles = StyleSheet.create({
     color: '#000',
   },
   cpf: {
-    fontSize: 12,
+    fontSize: 1,
     color: '#666',
     marginTop: 2,
   },
