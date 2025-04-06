@@ -159,7 +159,7 @@ const styles = StyleSheet.create({
     color: '#666',
   },
   retirement: {
-    fontSize: 12,
+    fontSize: 16,
     color: '#007AFF',
     fontWeight: '500',
   },
